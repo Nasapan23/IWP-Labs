@@ -1,0 +1,45 @@
+/*
+	SHIFT + F5 -> Refresh
+*/
+
+h1 {
+    color: orange;
+    font-style : italic;
+    text-decoration: underline;
+    font-size: 35vh;
+    letter-spacing: 2vh;
+}
+
+.text{
+    color: #ff0000;
+    font-weight: bold;
+    font-size: 21vh;
+    background-color: orange;
+    width: 196vh;
+    text-align: center;
+}
+/* link style */ 
+
+.top .link{
+    color: red;
+    font-size: 22vh;
+    text-decoration: none;
+    text-shadow: 1px 1px 2px gray;
+}
+
+.top .link:hover{
+    color:orange;
+}
+
+.box{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px gray;
+    margin: 0 auto;
+}
+.picture{
+    
+}
